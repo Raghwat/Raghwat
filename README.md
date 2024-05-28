@@ -5,15 +5,10 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [dkcmsd](dkcmsd)
-
-- 📝 I regularly write articles on [jdflskdf](jdflskdf)
-
-- 💬 Ask me about **Pyhton, React, SQL**
+- 👨‍💻 All of my projects are available at [github.com/Raghwat](github.com/Raghwat)
 
 - 📫 How to reach me **amitraghwat@gmail.com**
 
-- 📄 Know about my experiences [sldslkd](sldslkd)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
